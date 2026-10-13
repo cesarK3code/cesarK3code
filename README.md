@@ -1,5 +1,6 @@
-# cesarK3code
-## Ayuda a empresas y pymes a desarrollar sus proyectos.Desarrollos y programación a medida.
+## cesarK3code
+## Ayuda a empresas y pymes a desarrollar sus proyectos.
+
 ### Desarrollos y programación a medida.
 
 Sígueme en [K3code](https://www.k3code.com)
